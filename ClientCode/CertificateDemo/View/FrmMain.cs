@@ -32,7 +32,6 @@ namespace CertificateDemo
             InitFrm();
         }
 
-
         /// <summary>
         /// 初始化DLL  动态加载本地dll文件
         /// </summary>
