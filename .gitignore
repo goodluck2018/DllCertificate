@@ -1,1 +1,3 @@
 /ClientCode/CertificateDemo/obj
+/ClientCode/.vs
+/ServiceCode/CertificateService/.vs
