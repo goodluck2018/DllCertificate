@@ -1,0 +1,14 @@
+C:\Users\黄显敬\source\repos\CertificateService\CertificateService\bin\Release\netcoreapp2.1\CertificateService.deps.json
+C:\Users\黄显敬\source\repos\CertificateService\CertificateService\bin\Release\netcoreapp2.1\CertificateService.runtimeconfig.json
+C:\Users\黄显敬\source\repos\CertificateService\CertificateService\bin\Release\netcoreapp2.1\CertificateService.runtimeconfig.dev.json
+C:\Users\黄显敬\source\repos\CertificateService\CertificateService\bin\Release\netcoreapp2.1\CertificateService.dll
+C:\Users\黄显敬\source\repos\CertificateService\CertificateService\bin\Release\netcoreapp2.1\CertificateService.pdb
+C:\Users\黄显敬\source\repos\CertificateService\CertificateService\obj\Release\netcoreapp2.1\CertificateService.csprojAssemblyReference.cache
+C:\Users\黄显敬\source\repos\CertificateService\CertificateService\obj\Release\netcoreapp2.1\CertificateService.csproj.CoreCompileInputs.cache
+C:\Users\黄显敬\source\repos\CertificateService\CertificateService\obj\Release\netcoreapp2.1\CertificateService.RazorAssemblyInfo.cache
+C:\Users\黄显敬\source\repos\CertificateService\CertificateService\obj\Release\netcoreapp2.1\CertificateService.RazorAssemblyInfo.cs
+C:\Users\黄显敬\source\repos\CertificateService\CertificateService\obj\Release\netcoreapp2.1\CertificateService.AssemblyInfoInputs.cache
+C:\Users\黄显敬\source\repos\CertificateService\CertificateService\obj\Release\netcoreapp2.1\CertificateService.AssemblyInfo.cs
+C:\Users\黄显敬\source\repos\CertificateService\CertificateService\obj\Release\netcoreapp2.1\CertificateService.RazorTargetAssemblyInfo.cache
+C:\Users\黄显敬\source\repos\CertificateService\CertificateService\obj\Release\netcoreapp2.1\CertificateService.dll
+C:\Users\黄显敬\source\repos\CertificateService\CertificateService\obj\Release\netcoreapp2.1\CertificateService.pdb

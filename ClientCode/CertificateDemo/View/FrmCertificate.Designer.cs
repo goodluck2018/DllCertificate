@@ -36,8 +36,8 @@
             this.txtUserName = new System.Windows.Forms.TextBox();
             this.txtSerialNumber = new System.Windows.Forms.TextBox();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.label5 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
+            this.label5 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -103,7 +103,7 @@
             this.txtSerialNumber.Name = "txtSerialNumber";
             this.txtSerialNumber.Size = new System.Drawing.Size(305, 25);
             this.txtSerialNumber.TabIndex = 20;
-            this.txtSerialNumber.Text = "123";
+            this.txtSerialNumber.Text = "ZF71R-DMX85-08DQY-8YMNC-PPHV8";
             // 
             // panel1
             // 
@@ -114,16 +114,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(597, 58);
             this.panel1.TabIndex = 21;
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label5.Location = new System.Drawing.Point(24, 25);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(119, 15);
-            this.label5.TabIndex = 13;
-            this.label5.Text = "还没有序列号？";
             // 
             // button2
             // 
@@ -136,6 +126,16 @@
             this.button2.Text = "立即购买";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label5.Location = new System.Drawing.Point(24, 25);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(119, 15);
+            this.label5.TabIndex = 13;
+            this.label5.Text = "还没有序列号？";
             // 
             // FrmCertificate
             // 
